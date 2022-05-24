@@ -8,6 +8,7 @@
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{moresize}
+\usepackage{indentfirst}
 \setmainfont{Times New Roman}
 
 \begin{document}
@@ -21,32 +22,42 @@
     \LARGE 姓名：劉彥辰
 \end{titlepage}
 \pagenumbering{roman}
-\tableofcontents
+\renewcommand{\contentsname}{目錄}
+
+\begin{center}
+    \tableofcontents
+\end{center}
 \pagebreak
 
-
+\indent\setlength{\parindent}{1em}
 \pagenumbering{arabic} 
 \section{簡歷}
 
 \begin{figure}[h]
 
     \centering
-    \includepdf[pages=-,pagecommand={},width=21cm,offset=0 -80,]{PDF/簡歷.pdf}
+    \includepdf[pages=-,pagecommand={},width=21cm,offset=0 -110,]{PDF/簡歷.pdf}
     \label{fig:my_label}
 \end{figure}
 
 \pagebreak    
 
 \section{自傳}
+
 \subsection{自我介紹}
-各位老師們好，得知貴校有二技名額時，感到相當的開心，簡單介紹一下我自己。
 
-我是劉彥辰，本人具有適應力強，容易溝通，在面對壓力時，仍然可以保持冷靜，快速知道彼此所需，以及描述及提出問題的能力，讓團隊快速了解癥結點後，集思廣益，破除困難。
 \subsubsection{人格特質}
+本人具有適應力強，容易溝通，在面對壓力時，仍然可以保持冷靜，快速知道彼此所需，以及描述及提出問題的能力，讓團隊快速了解癥結點後，集思廣益，破除困難。
 
-我喜愛和平，並且非常的注重溝通，我認為人們的衝突除了利益外，普遍都發生於溝通上，因此在面對衝突時能夠冷靜聆聽對方的想法，不隨著對方的情緒渲染，而讓溝通只剩下情緒發言，因此能夠達成溝通的最大效益，同時我也喜歡當一個風趣好相處的人，我希望能夠與許許多多的人成為朋友。
+我喜愛和平，並且非常注重溝通，我認為人們的衝突普遍都發生於溝通上，因此在面對衝突時能夠冷靜聆聽對方的想法，不隨著對方的情緒，而讓溝通只剩下情緒發言，因此能夠達成溝通的最大效益，同時我也喜歡當一個風趣好相處的人，我希望能夠與許許多多的人成為朋友。
 
 因五專的作業需求，常常需要到人群前演講，所以面對演講時，能夠快速冷靜，盡可能避免把緊張情緒帶給觀眾，並且梳理邏輯，慢慢的表達。
+
+\subsubsection{就讀動機}
+之所以想要讀雲林科技大學的資訊管理科，最主要的原因是因為，課程符合我所期望學習的東西，不管是資料庫，網路，甚至是物件導向的概念，都可以從學校獲取資源，也有老師的支援，因此在學習上可以避免自學時的鑽牛角尖，能夠提升學習的效率與興趣。
+
+能夠進入雲科資管的學生，我相信資質一定備受肯定，能夠跟優秀的同學一起進步，一起合作做專題，一定能夠大大提升實力，這些我相信一定比自己單打獨鬥來的更加的有用，也促成我想要進入雲科的原因之一。
+
 
 
 \subsection{專題}
@@ -56,7 +67,7 @@
 在專題的途中偶爾會發生隊員之間因意見不合而產生的摩擦，我可以快速統整意見並且想出折衷辦法，讓專題能夠順利如期執行。
 
 \subsubsection{專題成果}
-在學期間完成了「肢體語言辨識系統之加值應用」並獲得競賽優等的好成績，本次專題，除了打下對於程式的邏輯概念，更是讓我學會團隊合作的力量，以及資料蒐集，描述問題的能力。
+「肢體語言辨識系統之加值應用」獲得資訊智慧創新跨域競賽優等的好成績，以及樹人資管學年度專題競賽的第二名，本次專題除了打下對於程式的邏輯概念，更是讓我學會團隊合作的力量，以及資料蒐集，描述問題的能力。
 
 \subsection{校外經驗}
 \subsubsection{實習經驗}
@@ -134,7 +145,7 @@
     \subsubsection{資訊管理實務專題}
 
     \subsubsection{物件導向程式語言}
-        
+
 
 \subsection{第三學期}
 
