@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.5.23)  23 MAY 2022 18:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.5.23)  25 MAY 2022 01:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -219,7 +219,189 @@ Package fontspec Info: Font family 'kaiu.ttf(0)' created for font 'kaiu.ttf'
 
  (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/moresize\moresize.sty
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen180
+\pgfutil@tempdimb=\dimen181
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box54
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen182
+\pgf@y=\dimen183
+\pgf@xa=\dimen184
+\pgf@ya=\dimen185
+\pgf@xb=\dimen186
+\pgf@yb=\dimen187
+\pgf@xc=\dimen188
+\pgf@yc=\dimen189
+\pgf@xd=\dimen190
+\pgf@yd=\dimen191
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count292
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count293
+))) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count294
+\pgfsyssoftpath@bigbuffer@items=\count295
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen192
+\pgfmath@count=\count296
+\pgfmath@box=\box55
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count297
+)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen193
+\pgf@picmaxx=\dimen194
+\pgf@picminy=\dimen195
+\pgf@picmaxy=\dimen196
+\pgf@pathminx=\dimen197
+\pgf@pathmaxx=\dimen198
+\pgf@pathminy=\dimen199
+\pgf@pathmaxy=\dimen256
+\pgf@xx=\dimen257
+\pgf@xy=\dimen258
+\pgf@yx=\dimen259
+\pgf@yy=\dimen260
+\pgf@zx=\dimen261
+\pgf@zy=\dimen262
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen263
+\pgf@path@lasty=\dimen264
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen265
+\pgf@shorten@start@additional=\dimen266
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count298
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen267
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen268
+\pgf@pt@y=\dimen269
+\pgf@pt@temp=\dimen270
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen271
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen272
+\pgf@sys@shading@range@num=\count299
+\pgf@shadingcount=\count300
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box59
+)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box60
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen273
+\pgf@nodesepend=\dimen274
+) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen275
+\pgffor@skip=\dimen276
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+)) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count301
+\pgfplotmarksize=\dimen277
+)
+\tikz@lastx=\dimen278
+\tikz@lasty=\dimen279
+\tikz@lastxsaved=\dimen280
+\tikz@lastysaved=\dimen281
+\tikz@lastmovetox=\dimen282
+\tikz@lastmovetoy=\dimen283
+\tikzleveldistance=\dimen284
+\tikzsiblingdistance=\dimen285
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count302
+\tikznumberofchildren=\count303
+\tikznumberofcurrentchild=\count304
+\tikz@fig@count=\count305
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count306
+\pgfmatrixcurrentcolumn=\count307
+\pgf@matrix@numberofcolumns=\count308
+)
+\tikz@expandcount=\count309
+ (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/moresize\moresize.sty
 Package: moresize 1999/07/26 v1.9 (more font sizes)
 )
 
@@ -252,83 +434,83 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 242.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 242.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 13.
  (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 242.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 242.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 242.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 242.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 242.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 242.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 242.
-LaTeX Font Info:    Redeclaring math accent \check on input line 242.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 242.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 242.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 242.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 242.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 242.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 13.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 13.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 13.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 13.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 13.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 13.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 13.
+LaTeX Font Info:    Redeclaring math accent \check on input line 13.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 13.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 13.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 13.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 13.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 242.
+(Font)              `operators' in the math version `normal' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 242.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 13.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 242.
+(Font)              `operators' in the math version `bold' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 242.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 242.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 242.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 242.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 242.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 242.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 242.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 242.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 242.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 242.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 13.
  (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (C:\Users\endchen\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
@@ -347,11 +529,22 @@ File: OFTEN/yulin.png Graphic file (type bmp)
 <OFTEN/yulin.png>
  [1
 
-]
+] (main.toc
 
 LaTeX Font Warning: Font shape `TU/kaiu.ttf(0)/b/n' undefined
-(Font)              using `TU/kaiu.ttf(0)/m/n' instead on input line 254.
+(Font)              using `TU/kaiu.ttf(0)/m/n' instead on input line 1.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+[1])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [2]
 File: PDF/簡歷.pdf Graphic file (type pdf)
 <use PDF/簡歷.pdf>
 File: PDF/簡歷.pdf Graphic file (type pdf)
@@ -366,417 +559,410 @@ File: PDF/簡歷.pdf Graphic file (type pdf)
 <use PDF/簡歷.pdf, page 1>
 File: PDF/簡歷.pdf Graphic file (type pdf)
 <use PDF/簡歷.pdf, page 1>
-[1] [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 297.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 297.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 297.
- [3] [4] [5]
+ [1] [2] [3] [4]
 File: pro/pp.jpg Graphic file (type bmp)
 <pro/pp.jpg>
- [6]
-Overfull \vbox (14.01854pt too high) has occurred while \output is active []
+ [5]
+Overfull \vbox (261.5217pt too high) has occurred while \output is active []
 
- [7]
+ [6]
 File: pro/JAVA.jpg Graphic file (type bmp)
 <pro/JAVA.jpg>
 File: pro/IFRS.jpg Graphic file (type bmp)
 <pro/IFRS.jpg>
 
-Overfull \hbox (8.34268pt too wide) in paragraph at lines 348--350
+Overfull \hbox (8.34268pt too wide) in paragraph at lines 156--158
 [] 
  []
 
 
 Overfull \vbox (1.2799pt too high) has occurred while \output is active []
 
- [8]
+ [7]
 File: pro/MIM.jpg Graphic file (type bmp)
 <pro/MIM.jpg>
 
-Overfull \hbox (12.36292pt too wide) in paragraph at lines 351--352
+Overfull \hbox (12.36292pt too wide) in paragraph at lines 159--160
 [] 
  []
 
 File: pro/out.jpg Graphic file (type bmp)
 <pro/out.jpg>
-[9]
+[8]
 File: pro/in.png Graphic file (type bmp)
 <pro/in.png>
- [10] [11]
+ [9] [10]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
 <use PDf/實習成果報告書.pdf>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
 <use PDf/實習成果報告書.pdf>
+File: PDf/實習成果報告書.pdf Graphic file (type pdf)
+<use PDf/實習成果報告書.pdf, page 1>
+File: PDf/實習成果報告書.pdf Graphic file (type pdf)
+<use PDf/實習成果報告書.pdf, page 1>
+ [11]
+File: PDf/實習成果報告書.pdf Graphic file (type pdf)
+<use PDf/實習成果報告書.pdf, page 1>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
 <use PDf/實習成果報告書.pdf, page 1>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
 <use PDf/實習成果報告書.pdf, page 1>
  [12]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 1>
+<use PDf/實習成果報告書.pdf, page 2>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 1>
+<use PDf/實習成果報告書.pdf, page 2>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 1>
+<use PDf/實習成果報告書.pdf, page 2>
  [13]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 2>
+<use PDf/實習成果報告書.pdf, page 3>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 2>
+<use PDf/實習成果報告書.pdf, page 3>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 2>
+<use PDf/實習成果報告書.pdf, page 3>
  [14]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 3>
+<use PDf/實習成果報告書.pdf, page 4>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 3>
+<use PDf/實習成果報告書.pdf, page 4>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 3>
+<use PDf/實習成果報告書.pdf, page 4>
  [15]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 4>
+<use PDf/實習成果報告書.pdf, page 5>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 4>
+<use PDf/實習成果報告書.pdf, page 5>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 4>
+<use PDf/實習成果報告書.pdf, page 5>
  [16]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 5>
+<use PDf/實習成果報告書.pdf, page 6>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 5>
+<use PDf/實習成果報告書.pdf, page 6>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 5>
+<use PDf/實習成果報告書.pdf, page 6>
  [17]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 6>
+<use PDf/實習成果報告書.pdf, page 7>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 6>
+<use PDf/實習成果報告書.pdf, page 7>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 6>
+<use PDf/實習成果報告書.pdf, page 7>
  [18]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 7>
+<use PDf/實習成果報告書.pdf, page 8>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 7>
+<use PDf/實習成果報告書.pdf, page 8>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 7>
+<use PDf/實習成果報告書.pdf, page 8>
  [19]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 8>
+<use PDf/實習成果報告書.pdf, page 9>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 8>
+<use PDf/實習成果報告書.pdf, page 9>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 8>
+<use PDf/實習成果報告書.pdf, page 9>
  [20]
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 9>
+<use PDf/實習成果報告書.pdf, page 10>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 9>
+<use PDf/實習成果報告書.pdf, page 10>
 File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 9>
+<use PDf/實習成果報告書.pdf, page 10>
  [21]
-File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 10>
-File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 10>
-File: PDf/實習成果報告書.pdf Graphic file (type pdf)
-<use PDf/實習成果報告書.pdf, page 10>
+File: PDF/成果報告書.pdf Graphic file (type pdf)
+<use PDF/成果報告書.pdf>
+File: PDF/成果報告書.pdf Graphic file (type pdf)
+<use PDF/成果報告書.pdf>
+File: PDF/成果報告書.pdf Graphic file (type pdf)
+<use PDF/成果報告書.pdf, page 1>
+File: PDF/成果報告書.pdf Graphic file (type pdf)
+<use PDF/成果報告書.pdf, page 1>
  [22]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf>
-File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf>
+<use PDF/成果報告書.pdf, page 1>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
 <use PDF/成果報告書.pdf, page 1>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
 <use PDF/成果報告書.pdf, page 1>
  [23]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 1>
+<use PDF/成果報告書.pdf, page 2>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 1>
+<use PDF/成果報告書.pdf, page 2>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 1>
+<use PDF/成果報告書.pdf, page 2>
  [24]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 2>
+<use PDF/成果報告書.pdf, page 3>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 2>
+<use PDF/成果報告書.pdf, page 3>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 2>
+<use PDF/成果報告書.pdf, page 3>
  [25]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 3>
+<use PDF/成果報告書.pdf, page 4>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 3>
+<use PDF/成果報告書.pdf, page 4>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 3>
+<use PDF/成果報告書.pdf, page 4>
  [26]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 4>
+<use PDF/成果報告書.pdf, page 5>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 4>
+<use PDF/成果報告書.pdf, page 5>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 4>
+<use PDF/成果報告書.pdf, page 5>
  [27]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 5>
+<use PDF/成果報告書.pdf, page 6>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 5>
+<use PDF/成果報告書.pdf, page 6>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 5>
+<use PDF/成果報告書.pdf, page 6>
  [28]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 6>
+<use PDF/成果報告書.pdf, page 7>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 6>
+<use PDF/成果報告書.pdf, page 7>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 6>
+<use PDF/成果報告書.pdf, page 7>
  [29]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 7>
+<use PDF/成果報告書.pdf, page 8>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 7>
+<use PDF/成果報告書.pdf, page 8>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 7>
+<use PDF/成果報告書.pdf, page 8>
  [30]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 8>
+<use PDF/成果報告書.pdf, page 9>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 8>
+<use PDF/成果報告書.pdf, page 9>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 8>
+<use PDF/成果報告書.pdf, page 9>
  [31]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 9>
+<use PDF/成果報告書.pdf, page 10>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 9>
+<use PDF/成果報告書.pdf, page 10>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 9>
+<use PDF/成果報告書.pdf, page 10>
  [32]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 10>
+<use PDF/成果報告書.pdf, page 11>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 10>
+<use PDF/成果報告書.pdf, page 11>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 10>
+<use PDF/成果報告書.pdf, page 11>
  [33]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 11>
+<use PDF/成果報告書.pdf, page 12>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 11>
+<use PDF/成果報告書.pdf, page 12>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 11>
+<use PDF/成果報告書.pdf, page 12>
  [34]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 12>
+<use PDF/成果報告書.pdf, page 13>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 12>
+<use PDF/成果報告書.pdf, page 13>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 12>
+<use PDF/成果報告書.pdf, page 13>
  [35]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 13>
+<use PDF/成果報告書.pdf, page 14>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 13>
+<use PDF/成果報告書.pdf, page 14>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 13>
+<use PDF/成果報告書.pdf, page 14>
  [36]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 14>
+<use PDF/成果報告書.pdf, page 15>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 14>
+<use PDF/成果報告書.pdf, page 15>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 14>
+<use PDF/成果報告書.pdf, page 15>
  [37]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 15>
+<use PDF/成果報告書.pdf, page 16>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 15>
+<use PDF/成果報告書.pdf, page 16>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 15>
+<use PDF/成果報告書.pdf, page 16>
  [38]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 16>
+<use PDF/成果報告書.pdf, page 17>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 16>
+<use PDF/成果報告書.pdf, page 17>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 16>
+<use PDF/成果報告書.pdf, page 17>
  [39]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 17>
+<use PDF/成果報告書.pdf, page 18>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 17>
+<use PDF/成果報告書.pdf, page 18>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 17>
+<use PDF/成果報告書.pdf, page 18>
  [40]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 18>
+<use PDF/成果報告書.pdf, page 19>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 18>
+<use PDF/成果報告書.pdf, page 19>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 18>
+<use PDF/成果報告書.pdf, page 19>
  [41]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 19>
+<use PDF/成果報告書.pdf, page 20>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 19>
+<use PDF/成果報告書.pdf, page 20>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 19>
+<use PDF/成果報告書.pdf, page 20>
  [42]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 20>
+<use PDF/成果報告書.pdf, page 21>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 20>
+<use PDF/成果報告書.pdf, page 21>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 20>
+<use PDF/成果報告書.pdf, page 21>
  [43]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 21>
+<use PDF/成果報告書.pdf, page 22>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 21>
+<use PDF/成果報告書.pdf, page 22>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 21>
+<use PDF/成果報告書.pdf, page 22>
  [44]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 22>
+<use PDF/成果報告書.pdf, page 23>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 22>
+<use PDF/成果報告書.pdf, page 23>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 22>
+<use PDF/成果報告書.pdf, page 23>
  [45]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 23>
+<use PDF/成果報告書.pdf, page 24>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 23>
+<use PDF/成果報告書.pdf, page 24>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 23>
+<use PDF/成果報告書.pdf, page 24>
  [46]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 24>
+<use PDF/成果報告書.pdf, page 25>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 24>
+<use PDF/成果報告書.pdf, page 25>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 24>
+<use PDF/成果報告書.pdf, page 25>
  [47]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 25>
+<use PDF/成果報告書.pdf, page 26>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 25>
+<use PDF/成果報告書.pdf, page 26>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 25>
+<use PDF/成果報告書.pdf, page 26>
  [48]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 26>
+<use PDF/成果報告書.pdf, page 27>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 26>
+<use PDF/成果報告書.pdf, page 27>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 26>
+<use PDF/成果報告書.pdf, page 27>
  [49]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 27>
+<use PDF/成果報告書.pdf, page 28>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 27>
+<use PDF/成果報告書.pdf, page 28>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 27>
+<use PDF/成果報告書.pdf, page 28>
  [50]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 28>
+<use PDF/成果報告書.pdf, page 29>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 28>
+<use PDF/成果報告書.pdf, page 29>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 28>
+<use PDF/成果報告書.pdf, page 29>
  [51]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 29>
+<use PDF/成果報告書.pdf, page 30>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 29>
+<use PDF/成果報告書.pdf, page 30>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 29>
+<use PDF/成果報告書.pdf, page 30>
  [52]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 30>
+<use PDF/成果報告書.pdf, page 31>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 30>
+<use PDF/成果報告書.pdf, page 31>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 30>
+<use PDF/成果報告書.pdf, page 31>
  [53]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 31>
+<use PDF/成果報告書.pdf, page 32>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 31>
+<use PDF/成果報告書.pdf, page 32>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 31>
+<use PDF/成果報告書.pdf, page 32>
  [54]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 32>
+<use PDF/成果報告書.pdf, page 33>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 32>
+<use PDF/成果報告書.pdf, page 33>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 32>
+<use PDF/成果報告書.pdf, page 33>
  [55]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 33>
+<use PDF/成果報告書.pdf, page 34>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 33>
+<use PDF/成果報告書.pdf, page 34>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 33>
+<use PDF/成果報告書.pdf, page 34>
  [56]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 34>
+<use PDF/成果報告書.pdf, page 35>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 34>
+<use PDF/成果報告書.pdf, page 35>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 34>
+<use PDF/成果報告書.pdf, page 35>
  [57]
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 35>
+<use PDF/成果報告書.pdf, page 36>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 35>
+<use PDF/成果報告書.pdf, page 36>
 File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 35>
+<use PDF/成果報告書.pdf, page 36>
  [58]
-File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 36>
-File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 36>
-File: PDF/成果報告書.pdf Graphic file (type pdf)
-<use PDF/成果報告書.pdf, page 36>
+File: PDF/掃描檔864.pdf Graphic file (type pdf)
+<use PDF/掃描檔864.pdf>
+File: PDF/掃描檔864.pdf Graphic file (type pdf)
+<use PDF/掃描檔864.pdf>
+File: PDF/掃描檔864.pdf Graphic file (type pdf)
+<use PDF/掃描檔864.pdf, page 1>
+File: PDF/掃描檔864.pdf Graphic file (type pdf)
+<use PDF/掃描檔864.pdf, page 1>
  [59]
 File: PDF/掃描檔864.pdf Graphic file (type pdf)
-<use PDF/掃描檔864.pdf>
-File: PDF/掃描檔864.pdf Graphic file (type pdf)
-<use PDF/掃描檔864.pdf>
-File: PDF/掃描檔864.pdf Graphic file (type pdf)
-<use PDF/掃描檔864.pdf, page 1>
-File: PDF/掃描檔864.pdf Graphic file (type pdf)
-<use PDF/掃描檔864.pdf, page 1>
- [60]
-File: PDF/掃描檔864.pdf Graphic file (type pdf)
 <use PDF/掃描檔864.pdf, page 1>
 File: PDF/掃描檔864.pdf Graphic file (type pdf)
 <use PDF/掃描檔864.pdf, page 1>
 File: PDF/掃描檔864.pdf Graphic file (type pdf)
 <use PDF/掃描檔864.pdf, page 1>
- [61] (main.aux)
+ [60] [61] (main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 236 (\begingroup)
+### semi simple group (level 1) entered at line 7 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6887 strings out of 410921
- 185736 string characters out of 2822266
- 543120 words of memory out of 3000000
- 27581 multiletter control sequences out of 15000+600000
+ 16882 strings out of 410921
+ 403670 string characters out of 2822266
+ 730533 words of memory out of 3000000
+ 37377 multiletter control sequences out of 15000+600000
  472793 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 70i,17n,85p,323b,1204s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,17n,85p,447b,9835s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on main.xdv (62 pages, 72012 bytes).
+Output written on main.xdv (64 pages, 112576 bytes).
